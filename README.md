@@ -1,7 +1,7 @@
 # Numerical Methods of Mathematical Optimization
 The laboratory assignments of the course:
 
-Week|Topic|Content|Grade|
+Lab|Topic|Content|Grade|
 |-|-|-|-|
 |1|Numerical Methods of One-Dimensional Minimization|Line search<br/>Bitwise search<br/>Bisection<br/>Dichotomy<br/>Golden-section search<br/>Fibonacci<br/>Quadratic interpolation|0/0|
 |2|Numerical Methods for One-Dimensional Minimization Using the Derivative|Midpoint<br/>Newton-Raphson<br/>Secant|0/0|
